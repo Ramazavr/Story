@@ -1,1 +1,4 @@
 Amazing!
+Now i can commit files and push changes!
+
+trying to understand
